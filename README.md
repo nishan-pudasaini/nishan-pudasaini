@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://www.youtube.com/watch?v=rCt9DatF63I
+
 <!--
 **nishan-pudasaini/nishan-pudasaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
